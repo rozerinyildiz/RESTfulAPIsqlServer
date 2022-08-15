@@ -1,4 +1,4 @@
-# restfulSQLServer
+# RESTfulSQLServer
  restful API with sql server
 
 This project is a restful API connecting with SQL Server using JAVA programming language. 
